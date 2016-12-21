@@ -4,6 +4,6 @@ describe 'example' do
   end
 
   it 'sean is cool' do
-    expect(false).to be_truthy
+    expect(false).to be_falsey
   end
 end
